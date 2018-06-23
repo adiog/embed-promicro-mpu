@@ -9,6 +9,6 @@
 | 5V    | VCC       | VCC      |
 | GND   | GND       | GND      |
 | CLK   | 15        | SCLK     |
-| MISO  | 14        | SDI      |
-| MOSI  | 16        | SDO      |
+| MISO  | 14        | SDO      |
+| MOSI  | 16        | SDI      |
 | SS    | 10        | NCS      |
